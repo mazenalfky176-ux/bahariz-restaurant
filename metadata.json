@@ -1,0 +1,6 @@
+{
+  "name": "بهاريز | BAHARIZ - ملوك السوري",
+  "description": "الموقع الرسمي لمطعم بهاريز - ملوك السوري. تصفح منيو الساندوتشات السوري، سطلانة بهاريز، المكسات، واطلب دليفري من أقرب فرع أونلاين أو عبر واتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
